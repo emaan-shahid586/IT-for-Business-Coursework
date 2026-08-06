@@ -1,0 +1,2 @@
+Overview: In this assignment we created a table in MySQL and applied SQL operations (SELECT, WHERE, LIKE, GROUP BY, ORDER BY) on the data. We learned how to write SQL scripts to create and manipulate data, and how to present SQL queries and output.
+Folder Contents: This folder includes a SQL file, a word document which has the script and the output, a word document of professor's instructions and a README.
